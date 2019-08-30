@@ -1,5 +1,6 @@
 package pack1;
 
 public interface MyInterface {
-void disp();
+void disp(String message);
 }
+
